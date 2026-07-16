@@ -40,6 +40,6 @@ pub fn data_types() {
     println!("Is Aria? {is_aria}");
 
     // 4. Characters
-    let grade: char = 'A'; // Use single quote
+    let grade: char = 'A'; // Use single quote;
     println!("Grade is {grade}");
 }
