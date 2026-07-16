@@ -4,6 +4,7 @@ pub fn hello_world() {
     // Print hello world in the terminal
     println!("Hello world");
     println!("Hi! It's siyam.");
+    println!("It's Miss. Aria");
 
     // What is Macro?
     println!(); // Print just a new line
