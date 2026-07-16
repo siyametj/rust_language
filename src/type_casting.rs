@@ -31,6 +31,6 @@ pub fn type_casting() {
     // Number separator
     // For read big number, use '_' ; Note: Its dont effect in print value
     let salary: i32 = 5_00_000; // integer
-    let my_float: f64 = 23_34_566.783_00; // float
-    println!("Salary: ${} and Float: {}", salary, my_float);
+    let _my_float: f64 = 23_34_566.783_00; // float
+    println!("Salary: ${} and Float: {}", salary, _my_float);
 }
