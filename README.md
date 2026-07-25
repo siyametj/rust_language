@@ -29,7 +29,10 @@ Here is the list of foundational Rust concepts covered in this repository:
 | **Ownership** | Rust memory model, move semantics, and `clone()` | [`ownership.rs`](./src/ownership.rs) |
 | **Borrowing & References**| Immutable (`&`) vs Mutable (`&mut`) references | [`borrowing_and_references.rs`](./src/borrowing_and_references.rs) |
 | **Scope** | Block scopes, variable lifetimes, and safe inner borrows | [`scope.rs`](./src/scope.rs) |
-
+| **Structs** | Defining custom data structures with named fields | [`rust_structs.rs`](./src/rust_structs.rs) |
+| **Enums** | Defining types with multiple possible variants & pattern matching | [`rust_enums.rs`](./src/rust_enums.rs) |
+| **Match Control Flow** | Pattern matching, exhaustive checks, and destructuring | [`rust_match.rs`](./src/rust_match.rs) |
+| **Implementation Blocks** | Method syntax, self parameters, and associated functions | [`rust_impl.rs`](./src/rust_impl.rs) |
 ---
 
 ## 💻 How to Run
@@ -63,4 +66,3 @@ Here is the list of foundational Rust concepts covered in this repository:
 ## ⭐ Support
 
 If you find my learning journey interesting, don't forget to leave a **STAR**! ⭐
-
